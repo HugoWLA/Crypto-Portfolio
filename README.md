@@ -28,3 +28,6 @@ pip install -U scikit-learn
 ```bash
 pip install -c pyviz hvplot
 ```
+
+# License
+[MIT](license)
