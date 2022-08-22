@@ -31,3 +31,8 @@ pip install -c pyviz hvplot
 
 # License
 [MIT](license)
+
+## Contributers
+Hugo Velazquez
+linkedin.com/in/hugoghvelazquez
+
