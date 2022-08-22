@@ -1,5 +1,8 @@
 # Crypto-Portfolio
 
+Is a prototype crypto portfolio created on jupyter notebook that clusters cryptocurrencies by their performance in different
+time periods. The results are ploted for visual display.
+
 ## Technologies
 
 This project uses several different add-ons, please make sure they are upt to date.
@@ -14,3 +17,14 @@ This project uses several different add-ons, please make sure they are upt to da
 
 ![Python Logo](images/python.png) ![Pandas Logo](images/Pandas.png) ![JupyterLab Logo](images/jupyterlab.png)
 ![hv plot logo](images/hvplot.png)
+
+
+
+## Installations
+
+```bash
+pip install -U scikit-learn
+```
+```bash
+pip install -c pyviz hvplot
+```
