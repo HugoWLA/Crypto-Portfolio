@@ -5,7 +5,7 @@ time periods. The results are ploted for visual display.
 
 ## Technologies
 
-This project uses several different add-ons, please make sure they are upt to date.
+This project uses several different add-ons, please make sure they are up to date.
 
 * [pandas 1.4.3](https://github.com/pandas-dev/pandas/blob/main/README.md) - csv files and operations.
 
